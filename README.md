@@ -7,7 +7,7 @@
 <p align="center">I love Cuddles/Kisses/Boops wtv, just don't bombard me please! I rly don't talk much cuz I'm offtab often. Plss whisper me if I'm needed.</p>
 <p align="center">I'm a stinky old man (18), so if you're young interact with extreme caution. Ion wanna become friends with children yk? </p>
 <p align="center">I'm always with friends. I love them dearly - Especially Mai! Viktor sucks though. He's MEAN!</p>
-<p align="center">Except when he gifts me skins, then he's really nice. Speaking of which, Don't copy skins or ask for inspo pls.</p>
+<p align="center">V and I have a very similar style so we often match & share skins. Do not copy or ask for inspo.</p>
 
 <br>
 <p align="center"><img width="452" height="295" alt="image" src="https://github.com/user-attachments/assets/d5331422-6b61-44dc-9b57-930a257847f8" /> <img width="452" height="295" alt="image" src="https://github.com/user-attachments/assets/5e3b4996-3b39-4fd7-a5b0-f28593943997" /></p>
