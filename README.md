@@ -3,7 +3,7 @@
 <p align="center"><img width="1200" height="448" alt="image" src="https://github.com/user-attachments/assets/78e8db2e-8ece-4237-9a55-3eb52cb43c9e" /></p>
 <br>
 
-<p align="center">I totally really hate Jayce, and you shouldn't call me that. I will not at all be happy.</p>
+<p align="center">Call me anything, idm! I'll respond to Jayce or Geo. Only refer to me with masc or neutral pronouns pls.</p>
 <p align="center">I love Cuddles/Kisses/Boops wtv, just don't bombard me please! I rly don't talk much cuz I'm offtab often. Plss whisper me if I'm needed.</p>
 <p align="center">I'm a stinky old man (18), so if you're young interact with extreme caution. Ion wanna become friends with children yk? </p>
 <p align="center">I'm always with friends. I love them dearly. I share & match skins w/ them - Don't copy or ask for inspo.</p>
@@ -21,4 +21,4 @@
 <p align="center"><img width="488" height="261" alt="image" src="https://github.com/user-attachments/assets/06efa7a0-7e4f-44e3-b22a-fb8f92130985" /></p>
 <br>
 
-<p align="center">I really like JayVik / VikJay... ok? Both versions. League and Arcane... ok?</p>
+Ponytown's 𝗝𝗔𝗬𝗖𝗘 League/Arcane and matching 𝗝𝗔𝗬𝗩𝗜𝗞 with [@KayleighJudas](https://github.com/KayleighJudas) on [@pt-ship-nominations](https://github.com/pt-ship-nominations) tyyy brooo my first nomination
