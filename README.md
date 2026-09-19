@@ -1,4 +1,4 @@
-<p align="center">im gonna make a follow account soon i didn't expect to get sm followers..</p> 
+<p align="center">i might rmk my gh eventually</p> 
 
 <p align="center"><img width="1200" height="448" alt="image" src="https://github.com/user-attachments/assets/78e8db2e-8ece-4237-9a55-3eb52cb43c9e" /></p>
 <br>
