@@ -1,24 +1,111 @@
-<p align="center">i might rmk my gh eventually</p> 
 
-<p align="center"><img width="1200" height="448" alt="image" src="https://github.com/user-attachments/assets/78e8db2e-8ece-4237-9a55-3eb52cb43c9e" /></p>
+
+</div>
+
+
+<table>
+  <tr>
+    <!-- Image Column -->
+    <td width="50%" align="center" valign="middle">
+      <img width="1200" height="819" alt="9cccd983-346c-40e0-8bd6-396dfb1d446a" src="https://github.com/user-attachments/assets/b8aff1b8-89da-4008-9b44-36f86f8cb3f2" />
+    </td>
+    <!-- Vertical Divider Column -->
+    <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
+    <!-- Content/Text Column -->
+    <td width="50%" valign="middle">
+      <h3>· · ─ ·✶· ─ · · 𝗛𝗘𝗟𝗟𝗢! · · ─ ·✶· ─ · ·</h3>
+      <br>
+      <p>Call me anything, idm! I will mostly respond to Jayce or Geo.</p>
+      <p>I'm 18, and would prefer if minors interact cautiously with me.</p>
+      <p>I love kisses/boops/crowns, whatever! Ask before cuddling tho.</p>
+      <p>I get gifted skins often so please don't copy them.</p>
+      <p>Always with friends in the Safe Server #1 Bakery.</p>
+      <p></p>
+    </td>
+  </tr>
+</table>
+
+__________________________________________________________________________________________
+
+<p align="center"><img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/d0524957-0116-440c-81a5-66b9c22e8f96" />
+</p>
+__________________________________________________________________________________________
+
+<div>
+
+<table>
+  <tr>
+    <td width="50%" align="right" valign="middle">
+      <img width="1200" height="675" alt="78e8db2e-8ece-4237-9a55-3eb52cb43c9e" src="https://github.com/user-attachments/assets/e06c85a1-9d81-4370-84a8-9ca459c42628" />
+    </td>
+    <!-- Vertical Divider Column -->
+    <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
+    <!-- Content/Text Column -->
+    <td width="50%" valign="middle">
+      <h3>· · ─ ·✶· ─ · · 𝗕𝗙𝗬𝗜 · · ─ ·✶· ─ · · </h3>
+      <p>I have a very basic DNI. Don't be trash. I block & hide freely, too!</p>
+      <p>Your attitude = My attitude. Aside from that, I'm kinda nice!</p>
+      <p>I'm not interested in adding off platform. Only on PT & GH. Sorry!</p>
+      <p>I'm not talkative, and am often off tab! Whisper me if I'm needed.</p>
+      <p>I lack a filter & will make dumb jokes. Lmk if you're uncomfy.</p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+__________________________________________________________________________________________
+
+<p align="center"><img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/d0524957-0116-440c-81a5-66b9c22e8f96" />
+</p>
+
+__________________________________________________________________________________________
+
 <br>
+<div>
 
-<p align="center">Call me anything, idm! I'll respond to Jayce or Geo. Only refer to me with masc or neutral pronouns pls.</p>
-<p align="center">I love Cuddles/Kisses/Boops wtv, just don't bombard me please! I rly don't talk much cuz I'm offtab often. Plss whisper me if I'm needed.</p>
-<p align="center">I'm a stinky old man (18), so if you're young interact with extreme caution. Ion wanna become friends with children yk? </p>
-<p align="center">I'm always with friends. I love them dearly. I share & match skins w/ them - Don't copy or ask for inspo.</p>
+<table>
+  <tr>
+    <td width="50%" align="right" valign="middle">
+      <img width="1000" height="694" alt="12efbc8c-fafd-4c09-9ae8-f3f7f9e6da2d" src="https://github.com/user-attachments/assets/eb9f4e9c-3c1b-4a11-8f4a-f4a469cdf164" />
+    </td>
+    <!-- Vertical Divider Column -->
+    <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
+    <!-- Content/Text Column -->
+    <td width="50%" valign="middle">
+      <h3>· · ─ ·✶· ─ · · 𝗕𝗢𝗨𝗡𝗗𝗔𝗥𝗜𝗘𝗦 · · ─ ·✶· ─ · · </h3>
+      <p>If I'm in a group, kindly do not cover us or randomly cuddle!</p>
+      <p>Do not try to roleplay with me or insert yourself into convos.</p>
+      <p>Do not talk/force religion or force political beliefs onto me.</p>
+      <p>Don't be mean to my friends. Idc if you're mean to me tho.</p>
+      <p>I'll put more when I think of them</p>
+    </td>
+  </tr>
+</table>
+
+__________________________________________________________________________________________
+
+<p align="center"><img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/d0524957-0116-440c-81a5-66b9c22e8f96" />
+</p>
+
+__________________________________________________________________________________________
 
 <br>
-<p align="center"><img width="452" height="295" alt="image" src="https://github.com/user-attachments/assets/d5331422-6b61-44dc-9b57-930a257847f8" /> <img width="452" height="295" alt="image" src="https://github.com/user-attachments/assets/5e3b4996-3b39-4fd7-a5b0-f28593943997" /></p>
-<br>
+<div>
 
-<p align="center">I have a very basic DNI. I block & hide freely. Your attitude = My attitude. Aside from that I like to think I'm nice!</p>
-<p align="center">Feel free to oomph me up or int with me, just don't expect me to be constantly active or carry conversations.</p>
-<p align="center">I'm not quite interested in making "long-term" friends, meaning I don't add anywhere else but PT and Github.</p>
-<p align="center">I just don't really have the energy to maintain contact with multiple people! I'm an adult so I have a life. I'm busy, and not on enough.</p>
-
-<br>
-<p align="center"><img width="488" height="261" alt="image" src="https://github.com/user-attachments/assets/06efa7a0-7e4f-44e3-b22a-fb8f92130985" /></p>
-<br>
-
-Ponytown's 𝗝𝗔𝗬𝗖𝗘 League/Arcane and matching 𝗝𝗔𝗬𝗩𝗜𝗞 with [@KayleighJudas](https://github.com/KayleighJudas) on [@pt-ship-nominations](https://github.com/pt-ship-nominations) tyyy brooo my first nomination
+<table>
+  <tr>
+    <td width="50%" align="right" valign="middle">
+      <img width="500" height="278" alt="G4eWY15awAAJ46X" src="https://github.com/user-attachments/assets/253e1e31-71d3-4094-bd2b-19322bb025f6" />
+    </td>
+    <!-- Vertical Divider Column -->
+    <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
+    <!-- Content/Text Column -->
+    <td width="50%" valign="middle">
+      <h3>· · ─ ·✶· ─ · · 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 · · ─ ·✶· ─ · · </h3>
+      <p>I really love Jayce from League & Arcane heh. I'm not a kin tho!</p>
+      <p>I'm big into listening to System of A Down and Linkin Park.</p>
+      <p>I'm not an interesting person, omg..</p>
+      <p>I'll add more later uughhgh</p>
+    </td>
+  </tr>
+</table>
