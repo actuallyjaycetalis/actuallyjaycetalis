@@ -77,7 +77,7 @@ ________________________________________________________________________________
       <p>Do not try to roleplay with me or insert yourself into convos.</p>
       <p>Do not talk/force religion or force political beliefs onto me.</p>
       <p>Don't be mean to my friends. Idc if you're mean to me tho.</p>
-      <p>I'll put more when I think of them</p>
+      <p>Do not make sexual or flirty comments abt me or friends.</p>
     </td>
   </tr>
 </table>
@@ -101,11 +101,13 @@ ________________________________________________________________________________
     <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
-      <h3>· · ─ ·✶· ─ · · 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 · · ─ ·✶· ─ · · </h3>
-      <p>I really love Jayce from League & Arcane heh. I'm not a kin tho!</p>
-      <p>I'm big into listening to System of A Down and Linkin Park.</p>
-      <p>I'm not an interesting person, omg..</p>
-      <p>I'll add more later uughhgh</p>
+      <h3>· · ─ ·✶· ─ · · 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘(?) · · ─ ·✶· ─ · · </h3>
+      <p>I really love Jayce from League & Arcane. I'm not a kin tho!</p>
+      <p>^ Idc for shipping / ship cuds as long as it isn't forced on me. ^</p>
+      <p>My favorite bands are System of A Down and Linkin Park.</p>
+      <p>I like geeking out about random things. Especially media.</p>
+      <p>I'm really not that interesting of a person sorry...</p>
+      <br>
     </td>
   </tr>
 </table>
