@@ -14,7 +14,6 @@
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗛𝗘𝗟𝗟𝗢! · · ─ ·✶· ─ · ·</h3>
-      <br>
       <p>Call me anything, idm! I will mostly respond to Jayce or Geo.</p>
       <p>I'm 18, and would prefer if minors interact cautiously with me.</p>
       <p>I love kisses/boops/crowns, whatever! Ask before cuddling.</p>
@@ -133,7 +132,7 @@ ________________________________________________________________________________
       <h3>· · ─ ·✶· ─ · · 𝗔𝗣𝗣𝗥𝗘𝗖𝗜𝗔𝗧𝗜𝗢𝗡 · · ─ ·✶· ─ · · </h3>
       <p>Thank you pt-ship-nominations for being my first nomination!</p>
       <p>As Ponytown's 𝗝𝗔𝗬𝗖𝗘 & 𝗝𝗔𝗬𝗩𝗜𝗞! (Arcane/League of Legends)</p>
-      <p>♡︎♡︎♡︎</p>
+      <p>────♡︎────</p>
       <p>Thank YOU for sticking around and reading!</p>
       <p>Leave a sign on my ATA if you'd like! It'd mean a lot!!</p>
       <br>
