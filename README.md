@@ -47,8 +47,8 @@ ________________________________________________________________________________
       <h3>· · ─ ·✶· ─ · · 𝗕𝗙𝗬𝗜 · · ─ ·✶· ─ · · </h3>
       <p>I have a very basic DNI. Don't be trash. I block & hide freely, too!</p>
       <p>Your attitude = My attitude. Aside from that, I'm kinda nice!</p>
-      <p>I'm not interested in adding off platform. Only on PT & GH. Sorry!</p>
-      <p>I'm not talkative, and am often off tab! Whisper me if I'm needed.</p>
+      <p>I'm not interested in adding off platform. Only on PT & GH.</p>
+      <p>I'm not talkative, and am often off tab! W2I if I'm needed.</p>
       <p>I lack a filter & will make dumb jokes. Lmk if you're uncomfy.</p>
       <br>
     </td>
