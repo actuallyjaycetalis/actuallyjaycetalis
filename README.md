@@ -17,7 +17,7 @@
       <br>
       <p>Call me anything, idm! I will mostly respond to Jayce or Geo.</p>
       <p>I'm 18, and would prefer if minors interact cautiously with me.</p>
-      <p>I love kisses/boops/crowns, whatever! Ask before cuddling tho.</p>
+      <p>I love kisses/boops/crowns, whatever! Ask before cuddling.</p>
       <p>I get gifted skins often so please don't copy them.</p>
       <p>Always with friends in the Safe Server #1 Bakery.</p>
       <p></p>
