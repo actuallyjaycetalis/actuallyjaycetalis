@@ -1,4 +1,4 @@
-still a wip
+<p align="center">୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧</p>
 
 </div>
 
@@ -107,6 +107,35 @@ ________________________________________________________________________________
       <p>My favorite bands are System of A Down and Linkin Park.</p>
       <p>I like geeking out about random things. Especially media.</p>
       <p>I'm really not that interesting of a person sorry...</p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+__________________________________________________________________________________________
+
+<p align="center"><img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/d0524957-0116-440c-81a5-66b9c22e8f96" />
+</p>
+
+__________________________________________________________________________________________
+
+<div>
+
+<table>
+  <tr>
+    <td width="50%" align="right" valign="middle">
+      <img width="488" height="261" alt="06efa7a0-7e4f-44e3-b22a-fb8f92130985" src="https://github.com/user-attachments/assets/0ec3317d-90b6-4650-aeae-80a115ba9329" />
+    </td>
+    <!-- Vertical Divider Column -->
+    <td style="border-left: 2px solid #30363d; padding: 0 15px;"></td>
+    <!-- Content/Text Column -->
+    <td width="50%" valign="middle">
+      <h3>· · ─ ·✶· ─ · · 𝗔𝗣𝗣𝗥𝗘𝗖𝗜𝗔𝗧𝗜𝗢𝗡 · · ─ ·✶· ─ · · </h3>
+      <p>Thank you pt-ship-nominations for being my first nomination!</p>
+      <p>As Ponytown's 𝗝𝗔𝗬𝗖𝗘 & 𝗝𝗔𝗬𝗩𝗜𝗞! (Arcane/League of Legends)</p>
+      <p>♡︎♡︎♡︎</p>
+      <p>Thank YOU for sticking around and reading!</p>
+      <p>Leave a sign on my ATA if you'd like! It'd mean a lot!!</p>
       <br>
     </td>
   </tr>
