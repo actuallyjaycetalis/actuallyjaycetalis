@@ -45,7 +45,7 @@ ________________________________________________________________________________
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗕𝗙𝗬𝗜 · · ─ ·✶· ─ · · </h3>
-      <p>I have a very basic DNI. Don't be trash. I block & hide freely, too!</p>
+      <p>I have a very basic DNI. Don't be trash. I block & hide freely.</p>
       <p>Your attitude = My attitude. Aside from that, I'm kinda nice!</p>
       <p>I'm not interested in adding off platform. Only on PT & GH.</p>
       <p>I'm not talkative, and am often off tab! W2I if I'm needed.</p>
@@ -103,7 +103,7 @@ ________________________________________________________________________________
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘(?) · · ─ ·✶· ─ · · </h3>
       <p>I really love Jayce from League & Arcane. I'm not a kin tho!</p>
-      <p>^ Idc for shipping / ship cuds as long as it isn't forced on me. ^</p>
+      <p>^Idc for shipping / ship cuds as long as it isn't forced on me.^</p>
       <p>My favorite bands are System of A Down and Linkin Park.</p>
       <p>I like geeking out about random things. Especially media.</p>
       <p>I'm really not that interesting of a person sorry...</p>
